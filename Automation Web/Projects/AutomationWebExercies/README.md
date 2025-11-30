@@ -1,8 +1,7 @@
-# TAF
 
 ## Description
 
-**TAF** is a test automation project using selenium and Rest Assured for web application and API testing. The project is designed to be modular and customizable, allowing easy adaptation to different project requirements. It includes features such as parallel execution, data-driven testing, cross-browser testing, CI/CD integration, and custom reporting.
+**AutomationWebProject** is a test automation project using selenium and Rest Assured for web application and API testing. The project is designed to be modular and customizable, allowing easy adaptation to different project requirements. It includes features such as parallel execution, data-driven testing, cross-browser testing, CI/CD integration, and custom reporting.
 
 ## Repository Information
 
