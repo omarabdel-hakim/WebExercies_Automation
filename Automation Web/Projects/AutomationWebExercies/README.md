@@ -7,7 +7,7 @@
 ## Repository Information
 
 - **Owner:** [Omar](https://github.com/omarabdel-hakim)
-- **Repository URL:** 
+- **Repository URL:** https://github.com/omarabdel-hakim/WebExercies_Automation/tree/master/Automation%20Web/Projects/AutomationWebExercies
 - **Primary Language:** Java
 
 ## 🚀 Features  
